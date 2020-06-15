@@ -48,8 +48,4 @@
 
 ```
 
-2-3 题基础代码下载地址：https://raw.githubusercontent.com/lagoufed/fed-e-001/master/tasks/02-01-base-code.zip
-
-说明：
-本次作业的中的编程题要求大家完成相应代码过后，录制一个小视频简单介绍一下实现思路，演示一下相应功能。最终将录制的视频和代码统一提交至作业仓库。
 
